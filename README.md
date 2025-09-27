@@ -1,6 +1,5 @@
 # :moneybag: Sistema de cofrinho em Java
-Este projeto em **JAVA**, desenvolvi como **trabalho na graduação Análise e Desenvolvimento de Sistemas pela Uninter**.
-Ele simula um **cofrinho de moedas** com suporte para diferentes moedas (Real, Dólar e Euro).
+Este projeto em **JAVA**, desenvolvi como **trabalho na graduação Análise e Desenvolvimento de Sistemas pela Uninter**, simula um **cofrinho de moedas** com suporte para diferentes moedas (Real, Dólar e Euro).
 
 ---
 
