@@ -1,0 +1,29 @@
+# IDEs (Inteççij, Eclipse, VS Code, etc.)
+# Ignora a pasta de configuração do IntelliJ/Android Studio.idea/
+
+# Ignora a pasta de configurações do VS Code .vscode/
+
+# Ignora arquivos de projetos temporários e de configurações (se existirem)
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+
+# Build Tools (Maven/Grandle)
+# Ignora a pasta de classes compiladas e artefatos do Maven/target/
+
+# Ignora a pasta compiladas e artefatos do Gradle/build/
+
+# Ignora arquivos de cache e wrapper do Gradle .gradle/
+gradle-wrapper.jar
+
+# Log, Cache e Binários
+# Ignora logs gerados
+*.log
+
+# Ignora arquivos de classes compiladas (se o projeto for pequeno e não usar Maven,
+*.class
+
+# Ignora arquivos de sistema (macOS)
+.DS_Store
